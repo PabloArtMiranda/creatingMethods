@@ -7,7 +7,7 @@ package methods;
 
 /**
  *
- * @author Pablo
+ * @author Pablo group_c
  */
 public class Methods {
 
