@@ -7,6 +7,7 @@ package methods;
 
 /**
  *
+ main
  * @author Group_C
  */
 public class Methods {
