@@ -16,11 +16,15 @@ public class Methodsproject {
     //this method will only print hello world.
     System.out.println("Hello World and Hello "+ name);
     }
-  
+  /**
+  * @author Douglas
+  */
     static void addtwonumbers(int num1,int num2){    
      //this method will only add two numbers.
         int add = num1 + num2;
-        System.out.println("Num1 + Num2 =" + add);
+        
+        System.out.println("Please, type two numbers for the operation: ");
+        System.out.println(" Num1 + Num2 = " + add);
     }    
 
     static void subtracttwonumbers(int num1,int num2){
