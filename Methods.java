@@ -25,7 +25,8 @@ public class Methods {
         //Author: Doug
         //
         System.out.println("Testing editing on github");
-        
+        System.out.println("This is my contribution to the code part of the CA");
+        System.out.println("Hey there John, I hope you see this message...o/");
     }
     static void jonatanmethod(){
         //Author: Jonatan
