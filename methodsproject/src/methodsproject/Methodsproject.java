@@ -41,7 +41,9 @@ public class Methodsproject {
         int mult = num1*num2;
         System.out.println("Num1 * Num2 ="+mult);
     }
-    
+    /**
+    * @author Jonatan
+    */
     static void dividetwonumbers(int num1,int num2){
     //this mehod will divide the second number by the first.
         int div = num2/num1;
