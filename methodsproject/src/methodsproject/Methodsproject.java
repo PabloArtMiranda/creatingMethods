@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  * Group: C
- * @author Lucas,Douglas,Harvey,Jonatan,Pablo,Yan Kida.
+ 
  */
 public class Methodsproject {
     static void helloworld(String name){
@@ -47,8 +47,12 @@ public class Methodsproject {
         int div = num2/num1;
         System.out.println("Num2 / Num1 =" + div);
     }
-    // @author Lucas
-    static void checkage(int age){
+    
+    /**
+    
+    *@author Lucas
+    */
+     static void checkage(int age){
     //this method will check age and print his status.
         if( age <= 18){System.out.println("School");}
         else if(age > 18 && age <= 25){System.out.println("College");}
@@ -62,7 +66,7 @@ public class Methodsproject {
         int square = num * num;
         System.out.println("The square of " + num + " = " + square);
     }
-    
+    //this method will check for odd number asking the user at the main to insert a number
     static void oddnumber(int num){
         if( num%2 == 0){
             System.out.println("The number " + num + " is odd ");
