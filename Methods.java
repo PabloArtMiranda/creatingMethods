@@ -33,6 +33,7 @@ public class Methods {
         //Author: Jonatan
         //
         System.out.println("This is just a method test3");
+        System.out.println("Here is my help to assessment CA");
     }    
     static void lucasmethod(){
         //Author: Lucas
