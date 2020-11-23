@@ -47,7 +47,7 @@ public class Methodsproject {
         int div = num2/num1;
         System.out.println("Num2 / Num1 =" + div);
     }
-    
+    // @author Lucas
     static void checkage(int age){
     //this method will check age and print his status.
         if( age <= 18){System.out.println("School");}
