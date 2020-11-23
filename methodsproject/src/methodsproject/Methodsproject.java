@@ -9,16 +9,16 @@ import java.util.Scanner;
 
 /**
  * Group: C
- 
  */
 public class Methodsproject {
     static void helloworld(String name){
     //this method will only print hello world.
     System.out.println("Hello World and Hello "+ name);
     }
-  /**
-  * @author Douglas
-  */
+  
+ /**
+ * @author Douglas
+ */
     static void addtwonumbers(int num1,int num2){    
      //this method will only add two numbers.
         int add = num1 + num2;
@@ -26,21 +26,23 @@ public class Methodsproject {
         System.out.println("Please, type two numbers for the operation: ");
         System.out.println(" Num1 + Num2 = " + add);
     }   
-   /**
+  
+ /**
   * @author Yan
   */
-
     static void subtracttwonumbers(int num1,int num2){
     // this method will subtract two numbers.    
         int sub = num2 - num1;
         System.out.println("Num2 - Num1 =" + sub);
     }
+
     
-    static void mutiplytwonumbers(int num1,int num2){
+   static void mutiplytwonumbers(int num1,int num2){
     // this method will multiply to numbers.    
         int mult = num1*num2;
         System.out.println("Num1 * Num2 ="+mult);
     }
+    
     /**
     * @author Jonatan
     */
@@ -51,7 +53,6 @@ public class Methodsproject {
     }
     
     /**
-    
     *@author Lucas
     */
      static void checkage(int age){
@@ -79,6 +80,7 @@ public class Methodsproject {
     }
     
     public static void main(String[] args) {
+        
         //This Scanner is for Helloworld method.
         System.out.println(" Please tell your name ");
         Scanner br = new Scanner(System.in);
