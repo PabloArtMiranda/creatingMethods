@@ -8,7 +8,7 @@ package methodsproject;
 import java.util.Scanner;
 
 /**
- *
+ * Group: C
  * @author lucas
  */
 public class Methodsproject {
