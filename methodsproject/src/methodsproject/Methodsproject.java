@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  * Group: C
- * @author lucas
+ * @author Lucas,Douglas,Harvey,Jonatan,Pablo,Yan Kida 
  */
 public class Methodsproject {
     static void helloworld(String name){
