@@ -41,7 +41,13 @@ public class Methods {
     static void Yanmethod(){
         //Author: Yan
         //
-        System.out.println("This is just a method test5");
+        System.out.println("This's my participation!");
+        
+        int number1 = 5;
+        int number2 = 10;
+        int sum = number1 + number2;
+        
+        System.out.println(sum);
     }    
     static void harveymethod(){
         //Author: Harvey
