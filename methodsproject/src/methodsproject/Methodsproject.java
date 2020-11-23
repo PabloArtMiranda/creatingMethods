@@ -25,7 +25,10 @@ public class Methodsproject {
         
         System.out.println("Please, type two numbers for the operation: ");
         System.out.println(" Num1 + Num2 = " + add);
-    }    
+    }   
+   /**
+  * @author Yan
+  */
 
     static void subtracttwonumbers(int num1,int num2){
     // this method will subtract two numbers.    
