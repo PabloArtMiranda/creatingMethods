@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Methodsproject {
 
  /**   
- * @
+ * @author Harvey Kok
  */
     //This method will print "Hello World" and ask the user to input his name and will print it too 
     static void helloworld(String name){
