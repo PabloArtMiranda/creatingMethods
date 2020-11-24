@@ -1,4 +1,3 @@
-
 package methodsproject;
 
 import java.util.Scanner;
@@ -7,6 +6,11 @@ import java.util.Scanner;
  * Group: C
  */
 public class Methodsproject {
+
+ /**   
+ * @
+ */
+    //This method will print "Hello World" and ask the user to input his name and will print it too 
     static void helloworld(String name){
     //this method will only print hello world.
     System.out.println("Hello World and Hello "+ name);
@@ -49,7 +53,7 @@ public class Methodsproject {
     }
     
     /**
-    *@author Lucas
+    * @author Lucas Barros
     */
      static void checkage(int age){
     //this method will check age and print his status.
@@ -65,9 +69,10 @@ public class Methodsproject {
         int square = num * num;
         System.out.println("The square of " + num + " = " + square);
     }
+    
     //this method will check for odd number asking the user at the main to insert a number
     static void oddnumber(int num){
-        if( num%2 == 0){
+        if( num%2 == 0 ){
             System.out.println("The number " + num + " is odd ");
         }
         else{
