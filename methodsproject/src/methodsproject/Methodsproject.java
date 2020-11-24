@@ -36,7 +36,9 @@ public class Methodsproject {
         System.out.println("Num2 - Num1 =" + sub);
     }
 
-    
+     /**
+ * @author Pablo
+ */
    static void mutiplytwonumbers(int num1,int num2){
     // this method will multiply to numbers.    
         int mult = num1*num2;
